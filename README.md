@@ -20,8 +20,7 @@ It includes country performances, tournament stats, qualification history, and a
 
 ## 🛠 Tools Used
 
-- Power BI Desktop  
-- DAX measures  
+- Power BI Desktop    
 - Microsoft Bing Maps  
 - Public FIFA datasets
 
